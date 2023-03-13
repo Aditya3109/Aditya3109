@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya3109
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cse
-- 💞️ I’m looking to collaborate on EE
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on Web and App development
+- 📫 How to reach me : _adi_dj
